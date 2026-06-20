@@ -3,9 +3,7 @@
 
 **Author:** Jack Pumpuni Frimpong-Manso  
 **GitHub:** [@pumpuni07](https://github.com/pumpuni07)  
-**LinkedIn:** [Jack Frimpong-Manso](https://linkedin.com/in/jackfrimpongmanso)
 
----
 
 ## Repository Overview
 
