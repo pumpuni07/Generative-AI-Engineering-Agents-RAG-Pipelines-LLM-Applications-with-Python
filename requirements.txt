@@ -1,0 +1,44 @@
+# ──────────────────────────────────────────────────────────────────
+# Requirements for: Building AI Agents & RAG Systems with Python
+# IBM AI Engineering Labs — Jack Pumpuni Frimpong-Manso
+# ──────────────────────────────────────────────────────────────────
+
+# ── Core utilities (all labs) ─────────────────────────────────────
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# ── Deep learning (Labs 2, 3) ─────────────────────────────────────
+torch>=2.1.0
+
+# ── Hugging Face ecosystem (Lab 2) ────────────────────────────────
+transformers>=4.38.0
+faiss-cpu>=1.7.4
+
+# ── Sentence embeddings (Lab 3) ───────────────────────────────────
+sentence-transformers>=2.6.0
+
+# ── LangChain ecosystem (Labs 4, 7) ──────────────────────────────
+langchain==0.2.11
+langchain-core>=0.2.0
+langchain-openai>=0.1.0
+langchain-community==0.2.10
+langchain-ibm==0.1.11
+openai>=1.12.0
+
+# ── IBM watsonx.ai (Labs 5, 6, 7) ────────────────────────────────
+ibm-watsonx-ai==1.1.2
+huggingface_hub==0.23.0
+
+# ── Gradio front-end (Labs 5, 7) ─────────────────────────────────
+gradio==4.44.0
+jinja2==3.1.4
+pydantic==2.9.1
+fastapi==0.112.2
+starlette==0.37.2
+uvicorn==0.30.6
+
+# ── PDF processing (Lab 7) ────────────────────────────────────────
+pypdf==4.3.1
+
+# ── Vector database (Lab 7) ───────────────────────────────────────
+chromadb==0.4.24
